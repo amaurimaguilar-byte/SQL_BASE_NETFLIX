@@ -2,7 +2,9 @@
 tomada desde el curso de SQL, este repositorio contiene una base de netflix (listando series,peliculas), donde se realizaron las siguientes consultas 
 * Diagrama de identidad relacional
 <p align="center">
-  <img src="assets/schema.jpg" alt="Diagrama de identidad" width="400" />
+  <a href="https://github.com/amaurimaguilar-byte/SQL_BASE_NETFLIX/blob/main/netflixdb/Netflix_schema.sql">
+    <img src="assets/schema.jpg" alt="Diagrama de identidad" width="400" />
+  </a>
 </p>
 
 <p align ="center">
