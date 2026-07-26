@@ -4,7 +4,7 @@
  
  Orden: primero por empleado, luego por horas asignadas DESC
 <p align="center">
-  <img src="../assets/consulta_10.jpg" alt="consulta" width="400" />
+  <img src="../assets/Consulta_10.jpg" alt="consulta" width="400" />
 </p>
 
 ## Ejercicio consulta 2
@@ -14,7 +14,7 @@
 
  Orden: total de horas DESC
 <p align="center">
-  <img src="../assets/consulta_11.jpg" alt="consulta" width="400" />
+  <img src="../assets/Consulta_11.jpg" alt="consulta" width="400" />
 </p>
 
 
@@ -26,5 +26,5 @@ Función de ventana: RANK() sobre horas trabajadas por departamento.
 
 Orden: por departamento y ranking.
 <p align="center">
-  <img src="../assets/consulta_12.jpg" alt="consulta" width="400" />
+  <img src="../assets/Consulta_12.jpg" alt="consulta" width="400" />
 </p>
